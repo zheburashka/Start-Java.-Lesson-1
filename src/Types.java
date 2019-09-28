@@ -1,3 +1,6 @@
+//created by Zheburashka
+//2. Создать переменные всех пройденных типов данных, и инициализировать их значения;
+
 public class Types {
     public static void main(String[] args) {
         byte b=10;
